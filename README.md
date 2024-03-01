@@ -1,37 +1,31 @@
-# TodoList App
- This is aTodoList  app that manages all the todos that are added in it.
+## Todo List App
 
-## Table of Contents
+This is a simple todo list app built with React and Vite.
 
-- [Getting Started](#getting-started)
-  - [Prerequisites]
-    Make sure you have Node.js and npm installed on your machine.
-  - [Installation](#installation)
-    1.Clone the repository:
-     git clone https://github.com/your-username/your-project.git
-     cd your-project
-    2.Install dependencies:
-     npm install
-- [Project Structure](#project-structure)
-     your-project/
-    |-- src/
-    |   |-- components/
-    |   |-- pages/
-    |   |-- App.jsx
-    |-- public/
-    |-- vite.config.js
-    |-- package.json
-    |-- README.md
+### Features
 
-- [Usage](#usage)
-- [Development](#development)
-  - [Running Locally](#running-locally)
-    Start the development server:
-     npm run dev
-     Visit http://localhost:3000 in your browser to view the app.
-  - [Build](#build)
-    Create a production-ready build:
-     npm run build
-     The build artifacts will be generated in the dist/ directory.
+* Add, edit, and delete todo items
+* Mark todo items as complete
+* Filter todo items by status
 
+### Installation
+
+To install the app, run the following command:
+* npm install
+
+### Usage
+
+To run the app, run the following command:
+* npm start
+
+
+The app will be running at http://localhost:3000.
+
+### Contributing
+
+If you would like to contribute to the app, please fork the repository and submit a pull request.
+
+### License
+
+The app is licensed under the MIT license.
 
